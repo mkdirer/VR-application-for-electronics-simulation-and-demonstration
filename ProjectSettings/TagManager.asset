@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shootable
+  - LeftMenuToolBox
+  - Floor
+  - PowerSupplyOffText
+  - RightBreadBoardMinus
+  - RightBreadboardPlus
+  - Nand_plate
+  - Or_plate
+  - And_plate
+  - Lamp
+  - Button_for_logic
+  - Not_plate
+  - Column1
+  - Column2
+  - WireTag
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - Resistor
+  - LED
+  - Pushbutton
+  - Potentiometer
+  - Buzzer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Lighting
+  - Ground
+  - Postprocessing
+  - IgnoreStraightPointerToInfo
+  - IgnoreStraightPointerToDelete
+  - LayerForStraightPointerToDelete
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Fire
+    uniqueID: 3804908061
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

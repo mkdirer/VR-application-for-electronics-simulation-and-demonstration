@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{19A6FBA3-156B-801C-DBF4-7CC0D3F6FD82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{2A20524B-A424-652C-DDCA-1A2F6FE4FCAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRTK.Tilia.Package.Importer.Editor", "VRTK.Tilia.Package.Importer.Editor.csproj", "{6D20800C-5210-1029-E889-BB0C54C13BDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19A6FBA3-156B-801C-DBF4-7CC0D3F6FD82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A6FBA3-156B-801C-DBF4-7CC0D3F6FD82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A6FBA3-156B-801C-DBF4-7CC0D3F6FD82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A6FBA3-156B-801C-DBF4-7CC0D3F6FD82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A20524B-A424-652C-DDCA-1A2F6FE4FCAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A20524B-A424-652C-DDCA-1A2F6FE4FCAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A20524B-A424-652C-DDCA-1A2F6FE4FCAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A20524B-A424-652C-DDCA-1A2F6FE4FCAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D20800C-5210-1029-E889-BB0C54C13BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D20800C-5210-1029-E889-BB0C54C13BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D20800C-5210-1029-E889-BB0C54C13BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D20800C-5210-1029-E889-BB0C54C13BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
