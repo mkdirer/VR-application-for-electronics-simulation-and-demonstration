@@ -2,7 +2,7 @@
 VR application made using Unity + VRTK for electronics simulation and demonstration.
 
 <div align="center">
- <p> Watch the video on my YouTube channel: </p>
+ <p> Watch a short tutorial on my YouTube channel: </p>
   <a href="https://www.youtube.com/watch?v=ie8iQVBteek">
     <img src="https://user-images.githubusercontent.com/83553257/226733287-1f19164b-bb41-449c-ac96-9e008650a4ad.png" alt="Zobacz film" width="10%">
   </a>
