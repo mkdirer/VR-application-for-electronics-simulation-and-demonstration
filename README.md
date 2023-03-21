@@ -1,7 +1,12 @@
 # VR-thesis
 VR application made using Unity + VRTK for electronics simulation and demonstration.
 
-Zobacz film na moim kanale YouTube: [![Zobacz film](https://user-images.githubusercontent.com/83553257/226733287-1f19164b-bb41-449c-ac96-9e008650a4ad.png)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+<div align="center">
+ <p> Watch the video on my YouTube channel: </p>
+  <a href="https://www.youtube.com/watch?v=ie8iQVBteek">
+    <img src="https://user-images.githubusercontent.com/83553257/226733287-1f19164b-bb41-449c-ac96-9e008650a4ad.png" alt="Zobacz film" width="10%">
+  </a>
+</div>
 
 The aim of the project was to design and implement an application based on VR technology that allows visualization of electronic demonstrations. Program is based on a virtual environment in which, by design, a user can present certain aspects of Nature that cannot be seen in reality.
 
