@@ -1,5 +1,5 @@
 # VR-thesis
-VR application made using Unity + VRTK for physics demonstrations.
+VR application made using Unity + VRTK for electronics simulation and demonstration.
 
 The aim of the project was to design and implement an application based on VR technology that allows visualization of electronic demonstrations. Program is based on a virtual environment in which, by design, a user can present certain aspects of Nature that cannot be seen in reality.
 
