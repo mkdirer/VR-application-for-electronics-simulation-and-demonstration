@@ -1,5 +1,5 @@
 # VR-thesis
-VR application made using Unity + VRTK for electronics simulation and demonstration.
+VR application made using Unity + VRTK for electronics simulation and demonstration. 
 
 <div align="center">
  <p> Watch a short tutorial on my YouTube channel: </p>
